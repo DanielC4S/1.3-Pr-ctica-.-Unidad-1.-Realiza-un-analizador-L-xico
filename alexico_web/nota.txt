@@ -1,0 +1,8 @@
+py -3 - venv .venv
+
+.venv/Scripts/activate
+
+
+pip install flask
+pip instal ply
+
